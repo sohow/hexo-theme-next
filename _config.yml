@@ -89,7 +89,7 @@ font:
 
   # Uri of fonts host. E.g. //fonts.googleapis.com (Default)
   host:
-
+        //sohow.tk
   # Global font settings used on <body> element.
   global:
     # external: true will load this font family from host.
@@ -533,3 +533,9 @@ images: images
 
 # Theme version
 version: 5.1.0
+
+#me
+duoshuo_shortname: sohow
+reward_comment:
+wechatpay: /images/weixin.png
+alipay: /images/zhifubao.jpg
