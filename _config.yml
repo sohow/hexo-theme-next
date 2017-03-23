@@ -537,5 +537,5 @@ version: 5.1.0
 #me
 duoshuo_shortname: sohow
 reward_comment:
-wechatpay: /images/weixin.png
-alipay: /images/zhifubao.jpg
+wechatpay: /images/wechat.png
+alipay: /images/alipay.jpg
