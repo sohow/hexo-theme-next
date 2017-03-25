@@ -290,13 +290,13 @@ mathjax:
 #duoshuo_shortname:
 
 # Disqus
-disqus_shortname: sohow
+#disqus_shortname: sohow
 
 # Hypercomments
 #hypercomments_id:
 
 # Gentie productKey
-#gentie_productKey:
+gentie_productKey: 3042edd3b9094c85b738513a6bb82ecc
 
 # changyan
 changyan:
