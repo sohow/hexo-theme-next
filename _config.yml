@@ -290,7 +290,7 @@ mathjax:
 #duoshuo_shortname:
 
 # Disqus
-#disqus_shortname:
+disqus_shortname: sohow
 
 # Hypercomments
 #hypercomments_id:
@@ -417,7 +417,7 @@ busuanzi_count:
 
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
-baidu_push: false
+baidu_push: true
 
 # Google Calendar
 # Share your recent schedule to others via calendar page
@@ -534,7 +534,7 @@ version: 5.1.0
 
 
 #me
-duoshuo_shortname: sohow
+#duoshuo_shortname: sohow
 reward_comment:
 wechatpay: /images/wechat.png
 alipay: /images/alipay.jpg
